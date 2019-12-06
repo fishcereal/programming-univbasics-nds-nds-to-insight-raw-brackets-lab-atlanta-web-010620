@@ -52,7 +52,8 @@ while outside_counter < directors_database.length do
 end
 
 # directors[:directors_database[0][:name]] = total
-pp directors
+# pp directors
+return directors
   
   
   #
